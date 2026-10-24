@@ -1,0 +1,9 @@
+gradio
+pandas
+numpy
+plotly
+geopy
+folium
+requests
+gspread
+google-auth
