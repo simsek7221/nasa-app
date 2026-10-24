@@ -1,5 +1,4 @@
 # Gerekli kütüphanelerin kurulumu
-!pip install --upgrade gradio pandas numpy plotly geopy folium requests gspread google-auth -q
 
 import gradio as gr
 import pandas as pd
